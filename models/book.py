@@ -6,3 +6,5 @@ class Book:
         self.user = user
         self.room = room
     
+        self.room = room
+    
