@@ -15,5 +15,5 @@ def available_rooms(rooms: list[Room], bookings: list[Book]):
 def book_room():
     room_number = int(input(f"{Style.DIM},{Fore.LIGHTRED_EX}Bron qilish uchun xona raqamini kiriting {Style.RESET_ALL}"))
    
-    
+     
         
